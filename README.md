@@ -10,11 +10,9 @@ Taking the Task Manager as an example, first open the "Send to Top" of the Task 
 
 When UIAccess is not enabled, regardless of whether `SetWindowPos(HWND_TOPMOST)` is used, the window Z order is always lower than that of the task manager:
 
-![Before activation](https://github.com/TopSoftdeveloper/AlwaysTopWindow/blob/main/img/uia_off.gif?raw=true)
 
 After enabling UIAccess and calling `SetWindowPos(HWND_TOPMOST)`, the window Z order will be higher than the task manager:
 
-![After enabling](https://github.com/TopSoftdeveloper/AlwaysTopWindow/blob/main/img/uia_on.gif?raw=true)
 
 ## Conditions and usage
 
