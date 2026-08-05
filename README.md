@@ -100,5 +100,5 @@ Is there any other way? Note that the windows of the on-screen keyboard (`osk.ex
 
 Have questions or want to contribute?
 
-- **Telegram**: [@somerwork](https://t.me/somerwork)
+- **Telegram**: [@liweiworker](https://t.me/liweiworker)
 ---
